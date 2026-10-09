@@ -18,4 +18,4 @@ MC.TIER_LEVELS = [1, 2, 3, 4, 5];
 MC.SERVER = { ip: 'mcpvp.club', discord: '#' };
 
 // Скин по умолчанию (Steve) — показывается, пока у игрока не указан свой скин в players.js
-MC.DEFAULT_SKIN = './skins/steve.png';
+MC.DEFAULT_SKIN = './images/steve.png';

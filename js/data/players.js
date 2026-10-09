@@ -12,10 +12,10 @@
 window.MC = window.MC || {};
 
 MC.PLAYERS = [
-  { id: 'pkasteve4283',   username: 'Pkasteve4283',   region: 'TJ', title: 'Combat Player', skin: '../../skins/pkasteve.png', tiers: { sword: 'HT1', mace: 'HT3' } },
+  { id: 'pkasteve4283',   username: 'Pkasteve4283',   region: 'TJ', title: 'Combat Player', skin: './images/pkasteve.png', tiers: { sword: 'HT1', mace: 'HT3' } },
   { id: 'zayniddin6837',  username: 'Zayniddin6837',  region: 'TJ', title: 'Combat Player', skin: '', tiers: { sword: 'HT2', mace: 'HT2' } },
-  { id: 'emomali67',      username: 'Emomali67',      region: 'TJ', title: 'Combat Player', skin: '../../skins/emomali.png', tiers: { mace: 'HT1', sword: 'LT5' } },
-  { id: 'suslik6484',     username: 'Suslik6484',     region: 'TJ', title: 'Combat Player', skin: '../../skins/suslik.png', tiers: { sword: 'HT3' } },
+  { id: 'emomali67',      username: 'Emomali67',      region: 'TJ', title: 'Combat Player', skin: './images/emomali.png', tiers: { mace: 'HT1', sword: 'LT5' } },
+  { id: 'suslik6484',     username: 'Suslik6484',     region: 'TJ', title: 'Combat Player', skin: './images/suslik.png', tiers: { sword: 'HT3' } },
   { id: 'qurbonov-remy',  username: 'QURBONOV REMY',  region: 'TJ', title: 'Combat Player', skin: '', tiers: { sword: 'HT4', mace: 'HT4' } },
   { id: 'zaydanraja2165', username: 'ZaydanRaja2165', region: 'TJ', title: 'Combat Player', skin: '', tiers: { mace: 'LT5' } },
 ];
